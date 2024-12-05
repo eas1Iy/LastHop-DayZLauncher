@@ -26,7 +26,15 @@
 ```
 
 ### Скриншоты | Images
-*СКОРО*
+![image](https://github.com/user-attachments/assets/7cfee489-dc15-4049-9e57-594ba9250c8c)
+![image](https://github.com/user-attachments/assets/e00cec02-4c62-40bc-bfe7-e56a4573f90f)
+![image](https://github.com/user-attachments/assets/73a161c2-17da-4a4d-9912-dbaa73832558)
+![image](https://github.com/user-attachments/assets/85a3ae31-9050-4027-91f4-a1b0e405249d)
+![image](https://github.com/user-attachments/assets/3801d007-5103-438e-a482-58aedc049e45)
+![image](https://github.com/user-attachments/assets/dc1e8524-ed18-4a82-a895-24a0d99b9478)
+![image](https://github.com/user-attachments/assets/f417f797-878b-4d66-a640-56bac6dc8cd4)
+![image](https://github.com/user-attachments/assets/b09ac254-1eb3-4e89-bf43-90759752c4dc)
+![image](https://github.com/user-attachments/assets/fe441f76-62b1-4b29-8fb0-6645dfb822ed)
 
 ```
 Авторское право на использование исходного кода остается только за eas1Iy.
