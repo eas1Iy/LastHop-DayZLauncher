@@ -29,7 +29,7 @@
 *СКОРО*
 
 ```
-Авторское право на использование исходного кода остается только за [eas1Iy](https://github.com/eas1Iy).
+Авторское право на использование исходного кода остается только за eas1Iy.
 ```
 ### BlankSoftware
 [Discord ](https://discord.gg/xt2GGzfFY7)| [Github](https://github.com/eas1Iy)| [Site](https://blanksoftware.ru/) | [Telegram](https://t.me/blanksoftware)
